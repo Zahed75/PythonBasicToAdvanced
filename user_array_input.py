@@ -5,3 +5,12 @@ for i in range(n):
 
 for x in a:
     print(x)
+
+
+def fun1():
+    x = 50
+    return x
+
+
+fun1()
+print(x)
